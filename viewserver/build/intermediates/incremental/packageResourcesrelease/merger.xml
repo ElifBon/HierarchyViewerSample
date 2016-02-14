@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/elifboncuk/AndroidStudioProjects/MyApplication/viewserver/src/main/res"/><source path="/Users/elifboncuk/AndroidStudioProjects/MyApplication/viewserver/build/generated/res/rs/release"/><source path="/Users/elifboncuk/AndroidStudioProjects/MyApplication/viewserver/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/Users/elifboncuk/AndroidStudioProjects/MyApplication/viewserver/src/release/res"/></dataSet><mergedItems/></merger>
